@@ -1,6 +1,7 @@
 # NFL-Highest-Score-Analysis
 
 # Files
+
   ProjectReport.pdf - contains project info and final report of project.
   ProjectReport.rmd - R code for projectReport
 
